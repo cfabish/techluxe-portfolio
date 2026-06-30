@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Techluxe - Home{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="techluxe-title">Techluxe</h1>
+    <p class="subtitle">Developer Portfolio</p>
+    <div class="hero-content">
+        <p class="hero-description">Welcome to Techluxe - Your partner in innovative digital solutions</p>
+        <div class="cta-buttons">
+            <a href="{{ url_for('services') }}" class="cta-button primary">Our Services</a>
+            <a href="{{ url_for('portfolio') }}" class="cta-button secondary">View Portfolio</a>
+        </div>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='shockwave.js') }}"></script>
+{% endblock %}
