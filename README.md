@@ -48,19 +48,19 @@ A modern developer portfolio website built with **Python Flask**, featuring a re
 
 ### Portfolio
 
-![Home Page](screenshots/techluxeportfolio.png)
+![Portfolio](screenshots/techluxeportfoliopage.png)
 
 ### Services
 
-![Home Page](screenshots/techluxeservices.png)
+![Services](screenshots/techluxeservicespage.png)
 
 ### Contact
 
-![Home Page](screenshots/techluxecontactus.png)
+![Contact](screenshots/techluxecontactus.png)
 
 ### Chatbot
 
-![Home Page](screenshots/techluxechatbot.png)
+![Chatbot](screenshots/techluxechatbot.png)
 
 ---
 
